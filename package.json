@@ -1,0 +1,15 @@
+{
+  "name": "zhu-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zhu-cli": "./bin/www.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
